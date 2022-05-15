@@ -283,8 +283,7 @@ function help(message){
     .setColor('#0099ff')
     .setTitle('help')
     .setURL('https://discord.js.org/%27')
-    //.setAuthor({ name: 'Uzaki bot', iconURL: 'https://i.imgur.com/AfFp7pu.png', url: 'https://discord.js.org/' })
-    .setDescription(`Hello, I am Uzaki bot! 
+    .setDescription(`Hello, I am Timmy the Translator! 
     \n\n**__Commands__**
     \n**!join**: join you in a voice channel
     \n**!translate <starting language code> <translate language code>**: begin listening and translating speech using codes')
@@ -297,7 +296,7 @@ function help(message){
     \n*es*: Spanish :flag_es:
     \n*de*: German :flag_de: `)
     
-    .setThumbnail('https://i.imgur.com/AfFp7pu.png')
+    .setThumbnail('https://static.wikia.nocookie.net/fairlyoddparents/images/2/2c/New_Timmy_Stock.png/revision/latest?cb=20200127001833&path-prefix=en')
     
     )
 }
